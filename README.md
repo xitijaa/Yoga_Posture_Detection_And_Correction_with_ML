@@ -1,0 +1,2 @@
+# Yoga_Posture_Detection_And_Correction_with_ML
+The app provides the yoga posture detection and correction intended. The use of the application is to correct improper postures of yoga. There are often mishaps and injuries caused due to wrong Yoga postures, and they may not provide intended results. Thus the aim of our app is to guide the users to do yoga in a safe way and achieve the best result from Yoga. We have used C++, HTML, Python, Machine Learning and key-point detection using OpenCV.
